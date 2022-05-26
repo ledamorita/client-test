@@ -55,7 +55,8 @@
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/moment": "^2.13.0",
-        "@emotion": "^11.8.1",
+        "@emotion/styled": "^11.8.1",
+        "@emotion/react": "^11.9.0",
     "@types/react-router-dom": "^5.3.3",
     "concurrently": "^7.2.1",
     "nodemon": "^2.0.16"
